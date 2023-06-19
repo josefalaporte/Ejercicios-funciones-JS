@@ -22,7 +22,7 @@ function multiplicarArreglo(arreglo) {
 
 var arreglo = [9, 20, 7, 4, 5];
 var resultado = multiplicarArreglo(arreglo);
-console.log(resultado);
+console.log(`El resultado de la multiplicación es ${resultado}`);
 
 
 

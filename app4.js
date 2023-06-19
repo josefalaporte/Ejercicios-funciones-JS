@@ -18,4 +18,4 @@ function sumaArreglo(arreglo){
 
 var miArreglo = [9, 4, 6, 2, 7];
 var resultado =sumaArreglo(miArreglo);
-console.log(resultado);
+console.log(`La suma total es de ${resultado}`);
